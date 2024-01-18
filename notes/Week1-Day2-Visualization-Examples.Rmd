@@ -1,6 +1,6 @@
 ---
 title: "Visualization Examples"
-author: "Brian Macdonald"
+author: "Madeline Gupta from Brian MacDonald "
 output: ioslides_presentation
 ---
 
@@ -16,7 +16,6 @@ library(plotly)
 library(scales)
 library(knitr)
 library(pubtheme)
-
 ```
 
 ## Visualization examples 
