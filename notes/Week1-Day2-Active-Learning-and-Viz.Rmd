@@ -11,9 +11,14 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## First
 
-- Git, GitHub, GitHub Desktop intro
-- Active Learning
+#Git, GitHub, GitHub Desktop intro
+-- we did this, need to download github desktop and make sure you have a fork of the main repo 
+-- I think he is just going to add us a collaborators so we don't have a forking issue
+-- he is going to publish more instructions
+
+#Active Learning
     - https://news.harvard.edu/gazette/story/2019/09/study-shows-that-students-learn-more-when-taking-part-in-classrooms-that-employ-active-learning-strategies/
+    
 - Example visualizations, pros and cons, best practices.
     - CNBC article: https://www.cnbc.com/2023/12/08/automakers-turn-to-hybrids-ev-transition.html
     - https://www.reuters.com/business/autos-transportation/ford-slashes-prices-f-150-lightning-trucks-base-variant-cost-17-less-2023-07-17/
